@@ -1,5 +1,5 @@
 <h1 align="center">🌲 Linktree</h1>
-<h3 align="center">Simple site to group all my profiles on social networks in one place.</h3>
+<h3 align="center">Simple site to group all profiles on social networks in one place.</h3>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/johnggli/linktree?color=04D361&labelColor=000000">
@@ -19,7 +19,6 @@
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
 </p>
 
 ---
@@ -38,9 +37,9 @@ This is an open source project that serves as a free alternative to the Linktree
 ## 🚀 Getting started
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-[Download the ZIP from this location](https://github.com/johnggli/linktree/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/rafizeazy/linktree/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 ```bash
-git clone https://github.com/johnggli/linktree
+git clone https://github.com/rafizeazy/linktree
 ```
 - Once the files are on your machine, open the _linktree_ folder in [Visual Studio Code](https://code.visualstudio.com/).
 - With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
