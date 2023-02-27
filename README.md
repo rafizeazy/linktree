@@ -42,4 +42,4 @@ git clone https://github.com/rafizeazy/linktree
 
 Once your pull request has been merged, you can delete your branch.
 
-Made with ❤️ by Rafi Imanullah :wave: [Get in touch][(https://linktree-lilac-nu.vercel.app/)]
+Made with ❤️ by Rafi Imanullah :wave: [Get in touch][(https://rafizeazy-linktree.vercel.app/)]
